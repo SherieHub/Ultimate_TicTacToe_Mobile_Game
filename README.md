@@ -1,7 +1,7 @@
 # 📱 Ultimate Tic-Tac-Toe
 
 <p align="center">
-  <img src="image_0.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
+  <img src="ultimate-tic-tac-toe.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
 </p>
 
 ## 📖 Overview
