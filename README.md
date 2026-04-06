@@ -4,11 +4,10 @@
   <img src="ultimate-tic-tac-toe.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
 </p>
 <p align="center">
-  <img src="ultimate_tictactoe_img/ultimate1.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
-  <img src="ultimate_tictactoe_img/ultimate2.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
-  <img src="ultimate_tictactoe_img/ultimate3.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
-  <img src="ultimate_tictactoe_img/ultimate4.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
-  <img src="ultimate_tictactoe_img/ultimate5.png" width="300" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
+  <img src="ultimate_tictactoe_img/ultimate1.png" width="200" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
+  <img src="ultimate_tictactoe_img/ultimate2.png" width="200" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
+  <img src="ultimate_tictactoe_img/ultimate3.png" width="200" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
+  <img src="ultimate_tictactoe_img/ultimate5.png" width="200" alt="Ultimate Tic-Tac-Toe Mobile Application Screenshot">
 </p>
 
 ## 📖 Overview
